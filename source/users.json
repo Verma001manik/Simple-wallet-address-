@@ -1,0 +1,20 @@
+[
+    {
+        "username": "name",
+        "password": "name",
+        "walletaddress": "name",
+        "amount": "number"
+    },
+    {
+        "username": "manik",
+        "password": "manikverma",
+        "walletaddress": "0x68x6kwk2un97e3dmrt2ui830lze",
+        "amount": "$1000"
+    },
+    {
+        "username": "charan",
+        "password": "charanteja",
+        "walletaddress": "0x6j8b8gdqj6ttsxn8oz412klarzn2ta",
+        "amount": "$1000"
+    }
+]
